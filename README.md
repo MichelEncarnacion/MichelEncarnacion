@@ -37,13 +37,10 @@ I build full-stack applications and learn fast. Every project here started as a 
 
 **Intelligent Parking System** — Vehicle detection and flow automation `Python` `Arduino`
 
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelEncarnacion&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" height="150"/>
-
----
 
 9.5/10 GPA · Merit Scholar · Cisco CCNA · Oracle SQL · Spanish & English (B2)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-encarnacion-dionicio-aaaab1254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:michel.encarnacion@upaep.edu.mx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mi-portafolio-gamma-weld.vercel.app/)
+
