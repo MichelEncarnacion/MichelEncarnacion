@@ -5,8 +5,7 @@ I'm a Software Engineering student at **UPAEP** (Puebla, México) graduating in 
 
 I love breaking down complex problems until they click whether it's architecting a real-time data pipeline or figuring out why a parking lot needs a brain. I'm driven by curiosity: every project is an excuse to learn something new, push my limits, and build something that actually matters.
 
-Currently leading the **IT Faculty Board of Directors** at UPAEP and developing a real-time satellite telemetry dashboard for the **GXIBA mission** — because why not start with space?
-
+Currently leading the **IT Faculty Board of Directors** at UPAEP 
 ---
 
 ### What I work with
